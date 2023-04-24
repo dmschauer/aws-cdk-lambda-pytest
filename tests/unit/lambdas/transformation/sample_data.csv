@@ -1,0 +1,11 @@
+start_city;end_city;journey_time
+Berlin;Erfurt;6
+Berlin;Erfurt;6.5
+Erfurt;Berlin;5.5
+Erfurt;Berlin;6
+Leipzig;Potsdam;2.5
+Leipzig;Potsdam;2
+Potsdam;Leipzig;2.5
+Potsdam;Leipzig;3
+Dresden;Magdeburg;1.5
+Dresden;Magdeburg;1

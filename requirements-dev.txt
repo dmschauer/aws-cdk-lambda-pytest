@@ -1,0 +1,7 @@
+-r requirements.txt
+pytest
+moto
+aws-cdk.core
+aws-cdk.aws-lambda
+aws-cdk.aws-s3
+aws-cdk.aws-apigateway
